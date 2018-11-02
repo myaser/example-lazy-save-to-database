@@ -1,0 +1,7 @@
+[report]
+omit =
+        app/tests/*
+        app/config.py
+        app/__init__.py
+include =
+        app/*
